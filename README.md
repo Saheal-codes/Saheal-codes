@@ -50,10 +50,7 @@ A Full Stack Web Developer based in India. A creative coder who specializes in M
  -->
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sarfaraz0730">
-</a>
-<a href="https://github.com/Sarfaraz0730?tab=followers"><img src="https://img.shields.io/github/followers/Sarfaraz0730?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/saheal-codes?tab=followers"><img src="https://img.shields.io/github/followers/saheal-codes?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
